@@ -6,7 +6,7 @@ Task 0:
 Am folosit strcmp pentru a identifica operatia si dupa am apelat-o cu parametrii necesari.
 
 Task 1:
-	Pentru operatia de edit in functia de citire, citit File Header si Info Header cu o singura instructiune de fread,
+	Pentru operatia de edit in functia de citire, am citit File Header si Info Header cu o singura instructiune de fread,
 citind din fisier exact numarul necesari de octeti. Iar pentru fiecare pixel din matrice am procedat la fel pentru a citi
 cate 3 octeti deodata.
 	Pentru operatia de scriere a imaginii am procedat la fel, intai scriind toti octetii pentru header si infoheader
